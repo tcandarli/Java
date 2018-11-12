@@ -38,9 +38,9 @@ public class ArithmeticOperators {
 		byte resByte = (byte) (b1+b2); // 
 		byte resByte1 = 20+12; // casting is done by Java
 		byte res7 = 126+1;
-		byte res8 = (byte) (126+19);
+		byte res8 = (byte) (126+19);  // -111
 		
-		System.out.println(res8);		
+		System.out.println(res8);	// -111	
 		
 		
 		

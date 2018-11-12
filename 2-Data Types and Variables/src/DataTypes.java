@@ -40,6 +40,22 @@ public class DataTypes {
 		float f1=5.2f; // F or f should be used since the default value is double
 		double d1=5.2;
 		
+		//boolean
+		boolean bool=true;
+		boolean bool2=false;
+		
+		//char
+		char c1='D';
+		char c2='2';
+		char c3='@';
+		char c4='\u00A9';
+		System.out.println(c1+ "|"+c2+"|"+c3+"|"+c4); //Unicode chars can be used from unicode-table.com
+		
+		System.out.println("--------------------------");
+		
+		
+		
+		
 		
 
 	}

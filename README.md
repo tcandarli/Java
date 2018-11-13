@@ -1,2 +1,2 @@
-# Java Fundamentals class
+# Java Fundamentals
 

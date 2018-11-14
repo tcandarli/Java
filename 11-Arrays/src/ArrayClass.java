@@ -1,3 +1,4 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
 public class ArrayClass {
@@ -16,6 +17,8 @@ public class ArrayClass {
 
 		int[] myIntegers = getIntegers(5);
 		System.out.println("The average is : " + getAverage(myIntegers));
+		
+		System.out.println(Arrays.toString(myIntegers));  // prints elements of array
 
 		// Create a method - getIntegers()
 	}

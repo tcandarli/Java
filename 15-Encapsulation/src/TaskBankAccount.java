@@ -1,3 +1,12 @@
+/*
+▪ Create a new class for a bank account.
+▪ Create fields for the account number, balance, customer name, email and phone number. 
+▪ Create getters and setters for each field.
+▪ Create two additional methods:
+▪ To allow the customer to deposit funds(this should increment the balance field)
+▪ To allow the customer to withdraw funds. This should deduct from the balance field, 
+but not allow the withdrawal to complete if there are insufficient funds.
+ */
 
 public class TaskBankAccount {
 

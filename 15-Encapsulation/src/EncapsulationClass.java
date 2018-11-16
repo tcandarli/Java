@@ -19,6 +19,7 @@ public class EncapsulationClass {
 		mikeAccount.withdrawal(50.0);
 		
 		System.out.println(mikeAccount.getCustomerName());
+		
 	}
 
 }

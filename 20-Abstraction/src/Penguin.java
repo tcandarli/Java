@@ -11,5 +11,7 @@ public class Penguin extends Bird {
 		System.out.println("I am not very good at that, can I go for a swim instead");
 
 	}
+	
+	
 
 }

@@ -5,6 +5,8 @@ import java.util.Collection;
 import java.util.Collections;
 import java.util.List;
 
+// ArrayList increase capacity 100%;
+
 public class ArrayListClass {
 
 	public static void main(String[] args) {

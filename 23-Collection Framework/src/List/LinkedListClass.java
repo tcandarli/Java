@@ -1,3 +1,6 @@
+// LinkedList does not shift the items when we add to the list
+// When we add an item it has a note; P (previous) and N (next)
+
 package List;
 
 import java.util.LinkedList;

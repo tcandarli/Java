@@ -7,6 +7,15 @@
 <fullyQualifiedTypeName name="Dog2"/>
 <fullyQualifiedTypeName name="TaskConstructor"/>
 <fullyQualifiedTypeName name="Car"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="TaskBankAccount"/>
+<fullyQualifiedTypeName name="computer.Dimensions"/>
+<fullyQualifiedTypeName name="computer.Motherboard"/>
+<fullyQualifiedTypeName name="computer.Monitor"/>
+<fullyQualifiedTypeName name="computer.Resolution"/>
+<fullyQualifiedTypeName name="Animal"/>
+<fullyQualifiedTypeName name="Dog"/>
+<fullyQualifiedTypeName name="Bird"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="Parrot"/>
+<fullyQualifiedTypeName name="DeskPhone"/>
 </qualifiedTypeNameHistroy>

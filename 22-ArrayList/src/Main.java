@@ -44,4 +44,9 @@ public class Main {
 
 	}
 
+	private static void printInstructions() {
+		// TODO Auto-generated method stub
+		
+	}
+
 }

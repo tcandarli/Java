@@ -51,16 +51,15 @@ public class Main {
 		// indexOf(String substring, int fromIndex) - returns the specified substring
 		// index starting with the given index
 		System.out.println(str.indexOf('a', 1));
-		
+
 		// toLowerCase() - returns a string in lowercase
 		System.out.println(str.toLowerCase());
-		
+
 		// toUpperCase() - returns a string to uppercase
 		System.out.println(str.toUpperCase());
-		
-		// trim()  - removes beginning and ending space
+
+		// trim() - removes beginning and ending space
 		System.out.println(str.trim());
-		
 
 	}
 

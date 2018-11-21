@@ -8,6 +8,7 @@ public class B extends A {
 		
 		A object = new A();
 		A.display();  
+		A.display();  
 	}
 
 }

@@ -31,4 +31,5 @@
 <fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
 <fullyQualifiedTypeName name="com.google.package2.Class2"/>
 <fullyQualifiedTypeName name="com.epfl.p1.A"/>
+<fullyQualifiedTypeName name="java.lang.Boolean"/>
 </qualifiedTypeNameHistroy>

@@ -30,10 +30,14 @@ public class Assignment13 {
 	}
 
 	public static boolean isOdd(int num) {
-		if (num % 2 == 0) {
+
+		if (num < 0) {
+			return false;
+		} else if (num % 2 != 0) {
+			return true;
+		} else {
 			return false;
 		}
-		return true;
 	}
 
 	public static int sumOdd(int min, int max) {
@@ -42,9 +46,9 @@ public class Assignment13 {
 
 		for (int i = min; i <= max; min++) {
 
-			if (min > 0 && max > 0 && min < max) {
+			if ((min > 0 && max > 0) && min < max) {
 
-				if (isOdd(i) == true) {
+				if (isOdd(i)) {
 					sum += i;
 				}
 
@@ -54,5 +58,5 @@ public class Assignment13 {
 		}
 		return sum;
 	}
-	
+
 }

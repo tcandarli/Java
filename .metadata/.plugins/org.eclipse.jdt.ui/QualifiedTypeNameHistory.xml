@@ -27,4 +27,8 @@
 <fullyQualifiedTypeName name="java.util.LinkedList"/>
 <fullyQualifiedTypeName name="java.util.Queue"/>
 <fullyQualifiedTypeName name="java.util.PriorityQueue"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="com.google.package2.Class2"/>
+<fullyQualifiedTypeName name="com.epfl.p1.A"/>
 </qualifiedTypeNameHistroy>

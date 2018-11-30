@@ -11,30 +11,29 @@ import java.util.Scanner;
 public class Assignment19 {
 
 	public static void main(String[] args) {
-		
+
 		int[] MyArray = readIntegers(3);
 		int minValue = findMin(MyArray);
 		System.out.println(minValue);
 	}
 
-	public static int[] readIntegers (int count) {
+	public static int[] readIntegers(int count) {
 		Scanner scanner = new Scanner(System.in);
 		int[] array = new int[count];
-		
-		for (int i=0; i < count; i++) {
-			System.out.println("Enter the " + (i+1) + ". value: ");
+
+		for (int i = 0; i < count; i++) {
+			System.out.println("Enter the " + (i + 1) + ". value: ");
 			int input = scanner.nextInt();
 			array[i] = input;
 		}
 		scanner.close();
 		return array;
-		
-		
+
 	}
-	
-	public static int findMin (int[] arr) {
+
+	public static int findMin(int[] arr) {
 		int min = arr[0];
-		
+
 		for (int elementsOfArray : arr) {
 			if (elementsOfArray < min) {
 				min = elementsOfArray;

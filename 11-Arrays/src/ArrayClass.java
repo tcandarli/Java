@@ -33,6 +33,7 @@ public class ArrayClass {
 		for (int i = 0; i < values.length; i++) {
 			values[i] = sc.nextInt();
 		}
+		sc.close();
 		return values;
 	}
 

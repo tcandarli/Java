@@ -9,8 +9,18 @@ public class Assignment20 {
 
 	public static void main(String[] args) {
 		
-		
+		int[] arr1 = {3, 6, 7, 8, 9};
+		reverse(arr1);
 
 	}
-
+	
+	public static void reverse (int[] arr) {
+		
+		int[] reverseArray = new int[arr.length];
+		int j = 0;
+		for (int i = arr.length-1; i>=0; i--) {
+			reverseArray[j] = arr[i];
+			j++;
+		}	
+	}	System.out.println(Arrays.toString(reverseArray));
 }

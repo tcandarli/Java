@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Assignment2",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Assignment2",
+            "args": "",
+            "projectName": "Assignments"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Assignment1",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "Assignment1",
+            "args": "",
+            "projectName": "Assignments"
+        }
+    ]
+}

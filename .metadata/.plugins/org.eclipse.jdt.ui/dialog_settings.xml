@@ -6,7 +6,7 @@
 	<item value="false" key="TypeHierarchyViewPart.linkeditors"/>
 	<item value="2" key="TypeHierarchyViewPart.hierarchyview"/>
 	<item value="false" key="delegateUpdating"/>
-	<item value="C:\Users\PC\Documents\GitHub\Java8" key="org.eclipse.jdt.ui.last.external.project"/>
+	<item value="C:\Users\PC\Documents\github\Java\28-Lab" key="org.eclipse.jdt.ui.last.external.project"/>
 	<section name="org.eclipse.ltk.ui.refactoring.settings">
 		<item value="false" key="updateSimilarElements"/>
 		<item value="1" key="updateSimilarElementsMatchStrategy"/>

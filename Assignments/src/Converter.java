@@ -18,11 +18,20 @@
  * 
  */
 
-public class printMegaBytesAndKiloBytes {
+public class Converter {
 
 	public static void main(String[] args) {
 		
+		printMegaBytesAndKiloytes(2050);
 		
+	}
+	
+	public static void printMegaBytesAndKiloytes(int kilobyte) {
+		
+		int megabyte = kilobyte/1024;
+		int remainingkilobyte = kilobyte%1024;
+		
+		System.out.println(kilobyte + " KB = " + megabyte + " MB and " + remainingkilobyte);
 	}
 
 }

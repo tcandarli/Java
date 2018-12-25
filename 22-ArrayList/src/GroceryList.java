@@ -9,7 +9,7 @@ public class GroceryList {
 	List<String> groceryList = new ArrayList<String>();
 
 	// arrayList can be created in other data type
-	List groceryList2 = new ArrayList();
+	// List groceryList2 = new ArrayList();
 	List<Integer> groceryList3 = new ArrayList<Integer>(); // write not only int - Integer
 
 	// Adding item to collection

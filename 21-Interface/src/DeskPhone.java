@@ -50,7 +50,7 @@ public class DeskPhone implements ITelephone {
 
 	@Override
 	public boolean isRinging() {
-		// TODO Auto-generated method stub
+
 		return false;
 	}
 

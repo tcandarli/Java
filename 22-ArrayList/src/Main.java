@@ -25,16 +25,16 @@ public class Main {
 				groceryList.printGroceryList();
 				break;
 			case 2:
-				addItem();
+				groceryList.addGroceryItem("butter");
 				break;
 			case 3:
-				modifyItem();
+				groceryList.modifyGroceryItem(0, "milk");
 				break;
 			case 4:
-				removeItem();
+				groceryList.removeGroceryItem(0);
 				break;
 			case 5:
-				searchForItem();
+				groceryList.findItem("milk");
 				break;
 			case 6:
 				quit = true;
@@ -45,7 +45,7 @@ public class Main {
 	}
 
 	private static void printInstructions() {
-		// TODO Auto-generated method stub
+	
 		
 	}
 

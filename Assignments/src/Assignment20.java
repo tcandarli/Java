@@ -5,6 +5,8 @@
 -To reverse the array, you have to swap the elements, so that the first element is swapped with the last element and so on.
 -For example, if the array is {1, 2, 3, 4, 5}, then the reversed array is {5, 4, 3, 2, 1}.
  */
+
+/*
 public class Assignment20 {
 
 	public static void main(String[] args) {
@@ -24,3 +26,5 @@ public class Assignment20 {
 		}	
 	}	System.out.println(Arrays.toString(reverseArray));
 }
+
+*/

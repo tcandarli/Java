@@ -12,7 +12,6 @@
 <fullyQualifiedTypeName name="Animal"/>
 <fullyQualifiedTypeName name="Dog"/>
 <fullyQualifiedTypeName name="Bird"/>
-<fullyQualifiedTypeName name="java.lang.String"/>
 <fullyQualifiedTypeName name="Parrot"/>
 <fullyQualifiedTypeName name="DeskPhone"/>
 <fullyQualifiedTypeName name="GroceryList"/>
@@ -35,4 +34,6 @@
 <fullyQualifiedTypeName name="Assignment21_2"/>
 <fullyQualifiedTypeName name="Constructor"/>
 <fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="printMegaBytesAndKiloBytes"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
 </qualifiedTypeNameHistroy>

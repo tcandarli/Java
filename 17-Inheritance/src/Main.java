@@ -8,6 +8,12 @@ public class Main {
 		dog1.eat();
 		dog1.walk();
 		dog1.run();
+		
+		Horse horse1= new Horse("Free", 1, 1, 170, 100, 2, "Short");
+		horse1.eat();
+		horse1.neigh();
+		
+		
 	}
 
 }

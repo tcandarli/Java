@@ -1,4 +1,4 @@
-// HashMap
+// HashMap 
 // 1. No order
 // 2. There is no index number, there is key and value;
 // 3. HashMap : fast, unsynchronized, works with single thread, allows one null key
@@ -14,7 +14,8 @@ public class HashMapClass {
 	public static void main(String[] args) {
 
 		// Map map = new HashMap();
-
+		
+		// If we want to specify 
 		Map<String, String> map = new HashMap<>();
 
 		map.put("myName", "Mike"); // Adds item to map object

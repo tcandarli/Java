@@ -11,6 +11,10 @@ public class Main {
 		p1.breathe();
 		p1.eat();
 		p1.fly();
+		
+		Penguin peng1 = new Penguin("King");
+		peng1.fly();
+		peng1.eat();
 
 	}
 

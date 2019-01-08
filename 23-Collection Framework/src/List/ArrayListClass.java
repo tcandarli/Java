@@ -16,10 +16,12 @@ public class ArrayListClass {
 		values.add(10);
 		values.add(1, 9); // 1 index number, 9 value
 		values.add(2);
+		
+		System.out.println(values);  // 5, 9, 10, 2
 
 		Collections.sort(values); // sort() methode sorts the elements in ArrayList
 
-		System.out.println(values);
+		System.out.println(values);  // 2, 5, 9, 10
 
 		for (int i : values) {  // prints each element
 			System.out.println(i);

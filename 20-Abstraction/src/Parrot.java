@@ -11,7 +11,6 @@ public class Parrot extends Bird{
 		
 		System.out.println("Flitting from branch to branch");
 		
-		
 	}
 	
 	

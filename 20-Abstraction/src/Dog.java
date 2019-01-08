@@ -1,6 +1,6 @@
 
 public class Dog extends Animal {
-	
+
 	public Dog(String name) {
 		super(name);
 	}
@@ -8,17 +8,13 @@ public class Dog extends Animal {
 	@Override
 	public void eat() {
 		System.out.println(getName() + " is eating");
-	
-		
+
 	}
 
 	@Override
 	public void breathe() {
 		System.out.println("Breathe in, breathe out");
-		
-		
+
 	}
 
-	
-	
 }

@@ -3,7 +3,7 @@ public class SwitchClass {
 
 	public static void main(String[] args) {
 
-		int switchValue = 3;
+		int switchValue = 1;
 		switch (switchValue) {
 		case 1:
 			System.out.println("value was 1");

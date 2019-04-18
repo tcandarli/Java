@@ -3,7 +3,7 @@ public class Task_01 {
 
 	public static void main(String[] args) {
 
-		char charValue = 'A';
+		char charValue = 'G';
 		switch (charValue) {
 		case 'A':
 		case 'B':

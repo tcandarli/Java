@@ -10,7 +10,7 @@ i.e. 1, 2, 3, 4, etc.
 Hint:
 • Useawhileloop.
 • Use a counter variable for counting valid numbers.
-• Closethescannerafteryoudon'tneeditanymore.
+• Close the scanner after you don't need it anymore.
 */
 
 import java.util.Scanner;
